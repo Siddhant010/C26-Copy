@@ -59,6 +59,7 @@ function draw(){
     log4.display();
     log5.display();
 
-    bird.display();
+    console.log("Tomorrow is Lakers vs Heat Game 6");
+
     platform.display();
 }
